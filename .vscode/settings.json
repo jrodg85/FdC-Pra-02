@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
+        "abspath",
         "createsshfolder",
         "Digi",
         "DNAT",
         "dport",
+        "etter",
         "ettercap",
         "gfarrasb",
         "gophish",
@@ -11,6 +13,7 @@
         "infosecmatter",
         "loguearnos",
         "lstart",
+        "luismiguelmorales",
         "mojtglk",
         "ndbdpjxg",
         "PREROUTING",
@@ -20,7 +23,11 @@
         "RHOSTS",
         "setear",
         "sshkey",
+        "startswith",
+        "urllib",
+        "urlparse",
         "webserver",
+        "wfile",
         "zulucrypt"
     ]
 }
